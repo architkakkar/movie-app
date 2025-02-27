@@ -1,7 +1,7 @@
 const App = () => {
   return (
     <>
-      <h1>Functional Arrow Components</h1>
+      <h1 className="text-2xl">Functional Arrow Components</h1>
     </>
   );
 };
